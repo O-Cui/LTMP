@@ -3,7 +3,7 @@ import axios from 'axios';
 function App() {
   const [searchText, setSearchText] = useState("");
   const [playerData, setPlayerData] = useState({});
-  const API_KEY = "RGAPI-761ee27d-2972-482b-8db1-4f254b2fe8f1"
+  const API_KEY = " api key goes here "
 
   function searchForPlayer(event){
       console.log("ASDADSAD");
