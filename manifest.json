@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "League time managemenet program",
+    "author": "Owen Cui",
+    "version": "0.1.0",
+    "description": "Checks League Stats",
+    "chrome_url_overrides": {
+      "newtab": "index.html"  
+    }
+  
+  }
